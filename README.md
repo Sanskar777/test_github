@@ -8,3 +8,4 @@ well now i will commit this change to a different branch
 I am adding another uselss lines to this branch
 creating another sub-branch
 adding some more nonsense to merge with master 
+trying to solve issue #10
